@@ -73,7 +73,7 @@ p {
 .display {
     padding: 30px;
     word-wrap: break-word;
-    min-height: 20px;
+    min-height: 24px;
     font-size: 20px;
     margin-bottom: 10px;
 }
